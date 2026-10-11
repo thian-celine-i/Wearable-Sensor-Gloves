@@ -9,3 +9,7 @@ The code, developed in C++ using the Arduino IDE, is programmed into the ESP32 m
 3. Additional Files
 
 The `additional-files` folder contains electronic schematics detailing sensor connections with the microcontroller via a breadboard, along with CAD designs of the glove's physical structure and sensor attachments.
+
+4. License
+
+This file is not licensed (all rights reserved). However, I kindly request that you contact me prior to making any modifications to the code.
